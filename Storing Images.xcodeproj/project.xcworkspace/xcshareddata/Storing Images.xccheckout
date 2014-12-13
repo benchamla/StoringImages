@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>FAF55F85-0AD4-4AFC-B33C-63AFF3BBAB06</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Storing Images</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>554CF0F6CC7A92F0718798624128CEF332D30BA9</key>
+		<string>https://github.com/benchamla/StoringImages.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Storing Images.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>554CF0F6CC7A92F0718798624128CEF332D30BA9</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/benchamla/StoringImages.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>554CF0F6CC7A92F0718798624128CEF332D30BA9</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>554CF0F6CC7A92F0718798624128CEF332D30BA9</string>
+			<key>IDESourceControlWCCName</key>
+			<string>StoringImages</string>
+		</dict>
+	</array>
+</dict>
+</plist>
